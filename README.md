@@ -70,7 +70,6 @@ docker-compose down
 docker-compose down -v
 
 # Mettre à jour après modification du code
-# vous specifer backend ou frontend etc..
 docker-compose up -d --build frontend 
 ```
 
